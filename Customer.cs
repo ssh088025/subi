@@ -11,7 +11,7 @@ namespace BankingSecurityApp
         public int CustomerID { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }
-        public string Landd { get; set; }
+        public string Land { get; set; }
         public DateTime RegistriertAm { get; set; }
     }
 }
